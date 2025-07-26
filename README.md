@@ -1,7 +1,7 @@
-<h1> Pixora-ai</h1>
+<h1> Optivana-Image-Enhancer</h1>
 
 📸 AI-Powered Image Enhancer with React <br>
-Pixora-ai is a powerful developer toolkit for building AI-enhanced image processing web apps using React, Tailwind CSS, and Vite. It leverages external AI APIs to automatically enhance image quality, upscale resolution, and add fine details with minimal user interaction.
+Optivana-Image-Enhancer is a powerful developer toolkit for building AI-enhanced image processing web apps using React, Tailwind CSS, and Vite. It leverages external AI APIs to automatically enhance image quality, upscale resolution, and add fine details with minimal user interaction.
 
 
 ✨ Core Features <br>
@@ -27,7 +27,7 @@ Step 1: Clone the Repository<br>
 git clone https://github.com/prajjwal-singh-26/Optivana-Image-Enhancer <br>
 
 Step 2:Navigate to the project directory:<br>
-cd Pixora-ai
+cd Optivana-Image-Enhancer
 
 Step 3:Install the dependencies:<br>
 npm install
