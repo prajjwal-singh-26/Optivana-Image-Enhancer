@@ -24,7 +24,7 @@ Package Manager: npm
 Clone the repository:
 
 Step 1: Clone the Repository<br>
-git clone https://github.com/ujjwal-singh26/Pixora-ai.git <br>
+git clone https://github.com/prajjwal-singh-26/Optivana-Image-Enhancer <br>
 
 Step 2:Navigate to the project directory:<br>
 cd Pixora-ai
